@@ -14,3 +14,8 @@ When a query is made about a particular data item, the hash value is checked to 
 If the hash value is marked, it is highly likely that the data is already in the database, so there is no need to query the database again. 
 
 This technique can be an efficient way to reduce the number of database queries and speed up data retrieval.
+
+
+[BloomFilter Explaination](BloomFilter.md)
+
+[DataBaseContainer Explaination](BloomFilterDatabase.md)
